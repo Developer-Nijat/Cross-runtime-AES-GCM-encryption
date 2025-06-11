@@ -17,6 +17,11 @@
     "nodejs",
     "nextjs"
   ],
+  "homepage": "https://github.com/Developer-Nijat/Cross-runtime-AES-GCM-encryption",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Developer-Nijat/Cross-runtime-AES-GCM-encryption"
+  },
   "author": "Nijat Aliyev",
   "license": "MIT"
 }
