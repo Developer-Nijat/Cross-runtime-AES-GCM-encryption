@@ -9,6 +9,7 @@ Cross-runtime AES-GCM encryption and decryption utility for JavaScript.
 * ✅ Edge runtimes (Cloudflare Workers, Vercel Edge Functions)
 
 🔗 GitHub: [https://github.com/Developer-Nijat/Cross-runtime-AES-GCM-encryption](https://github.com/Developer-Nijat/Cross-runtime-AES-GCM-encryption)
+
 📦 NPM: [https://www.npmjs.com/package/@developer.nijat/crypto-utils](https://www.npmjs.com/package/@developer.nijat/crypto-utils)
 
 ---

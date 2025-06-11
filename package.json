@@ -1,6 +1,6 @@
 {
   "name": "@developer.nijat/crypto-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cross-runtime AES-GCM encryption utils for Node.js, React, and Edge",
   "main": "src/index.js",
   "exports": {
