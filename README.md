@@ -26,9 +26,9 @@ Cross-runtime AES-GCM encryption and decryption utility for JavaScript.
 ## 📦 Installation
 
 ```bash
-npm install @developer.nijat/crypto-utils
+npm install "@developer.nijat/crypto-utils"
 # or
-yarn add @developer.nijat/crypto-utils
+yarn add "@developer.nijat/crypto-utils"
 ```
 
 ---
