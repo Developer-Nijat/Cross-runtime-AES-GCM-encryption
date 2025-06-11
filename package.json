@@ -1,0 +1,22 @@
+{
+  "name": "secure-crypto-utils",
+  "version": "1.0.0",
+  "description": "Cross-runtime AES-GCM encryption utils for Node.js, React, and Edge",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "aes",
+    "crypto",
+    "webcrypto",
+    "aes-gcm",
+    "encryption",
+    "react",
+    "nodejs",
+    "nextjs"
+  ],
+  "author": "Nijat Aliyev",
+  "license": "MIT"
+}
